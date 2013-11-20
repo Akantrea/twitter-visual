@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 import threading
 import time
-
+# olmamis buralar. hep baglikti bahce olmus.
 import twitter
 
 #import classifier as cl
